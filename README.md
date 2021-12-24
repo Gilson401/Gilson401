@@ -1,16 +1,20 @@
-### Hi there 👋
+## Welcome to my Github.
 
-<!--
-**Gilson401/Gilson401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Since you got here, know a little about me:
 
-Here are some ideas to get you started:
+I am a junior developer and formallystarted working in the area in August 2021. <br />I currently work at Investfy as a front-end developer. <br />At Investfy I gained experience in: <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Vuejs,
+* Nuxtjs,
+* Vuex,
+* TailwindCSS, 
+* Docker,
+* Practice with Github as a team,
+
+I also have knowledge in the MERN stack, which I learned in my training course at the Infnet institute.<br />
+
+### I'm 43 years old (I'm young but mature). 
+I'm very willing to learn new technologies and take on new challenges. <br/>
+If you are willing to hire someone with little experience for your team, how about someone who already has experience in a corporate environment?
+
+
