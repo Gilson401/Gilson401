@@ -1,6 +1,6 @@
 ## Welcome to my Github.
 
-### Since you got here, know a little about me:
+### As you got here, get to know a little more about me:
 
 I am a junior developer and formallystarted working in the area in August 2021. <br />I currently work at Investfy as a front-end developer. <br />At Investfy I gained experience in: <br />
 
