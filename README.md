@@ -22,8 +22,8 @@ I have **16 years of experience** as an administrative assistant at the former B
 
 ### You might find it interesting to know about me:
 * I am married, with 3 teenage children. I love my family.
-* I like Magic The Gathering, Kingo Of Fighters and Microsoft Excel.
-* I like to reflect on the meaning of life, our mission in the world.
+* I like Magic The Gathering, King Of Fighters and Microsoft Excel.
+* I like to reflect on the meaning of life and our mission in the world.
 * Taste of dried apricot, tamarind, simple beers.
 * I'm eclectic for music: lofi, trance, Indian music and 80's funk.
 
