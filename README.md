@@ -2,7 +2,7 @@
 
 ### As you got here, get to know a little more about me:
 
-I am a junior developer and formallystarted working in the area in August 2021. <br />I currently work at Investfy as a front-end developer. <br />At Investfy I gained experience in: <br />
+I am a junior developer and formally started working in the area in August 2021. <br />I currently work at Investfy as a front-end developer. <br />At Investfy I gained experience in: <br />
 
 * Vuejs,
 * Nuxtjs,
@@ -10,6 +10,7 @@ I am a junior developer and formallystarted working in the area in August 2021. 
 * TailwindCSS, 
 * Docker,
 * Practice with Github as a team,
+* SCRUM routines.
 
 I also have knowledge in the MERN stack, which I learned in my training course at the Infnet institute.<br />
 
