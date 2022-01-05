@@ -2,7 +2,7 @@
 
 ### As you got here, get to know a little more about me:
 
-I am a junior developer and formally started working in the area in August 2021. <br />I currently work at Investfy as a front-end developer. <br />At Investfy I gained experience in: <br />
+I am a junior developer and formally started working in the area in August 2021. <br />I currently work at Investfy as a jr. front-end developer. <br />At Investfy I gained experience in: <br />
 
 * Vuejs,
 * Nuxtjs,
