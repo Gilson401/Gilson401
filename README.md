@@ -1,32 +1,42 @@
-## Welcome to my Github.
+Hi 👋 My name is Gilson Paulo
+=============================
 
-### As you got here, get to know a little more about me:
+Web Front End Developer
+-----------------------
 
-I am a junior developer and formally started working in the area in August 2021. <br />I currently work at Investfy as a jr. front-end developer. <br />At Investfy I gained experience in: <br />
+Front end web developer. I have been working in the area since August 2021. I have practical experience in formal work with HTML, CSS, JAVASCRIPT in addition to VueJS, NuxtJS and TailwindCSS frameworks. I also have knowledge of the MERN-MongoDB, ExpressJS, ReactJS and NodeJS stack, object of my training course at the Infnet Institute of Technology.
 
-* Vuejs,
-* Nuxtjs,
-* Vuex,
-* TailwindCSS, 
-* Docker,
-* Practice with Github as a team,
-* SCRUM routines.
+* 🌍  I'm based in Itapema/SC - Brazil
+* 🖥️  See my portfolio at [Personal Site](http://gilsonpaulo.com.br/portfolio/)
+* ✉️  You can contact me at [dev.gpsc@gmail.com](mailto:dev.gpsc@gmail.com)
+* 🚀  I'm currently working on [Investfy](http://app.investfy.com/)
+* 🧠  I'm learning Typescript
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I'm a Kof player.
 
-I also have knowledge in the MERN stack, which I learned in my training course at the Infnet institute.<br />
+<a href="https://www.twitter.com/DeveloperGp" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/DeveloperGp?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-### I'm 43 years old (I'm young but mature). 
-I'm very willing to learn new technologies and take on new challenges. <br/>
-If you are willing to hire someone with little experience for your team, how about someone who already has experience in a corporate environment?<br/>
-I have **16 years of experience** as an administrative assistant at the former BR Distribuidora, now Vibra Energia. 
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
 
 
-### You might find it interesting to know about me:
-* I am married, with 3 teenage children. I love my family.
-* I like Magic The Gathering, King Of Fighters and Microsoft Excel.
-* I like to reflect on the meaning of life and our mission in the world.
-* Taste of dried apricot, tamarind, simple beers.
-* I'm eclectic for music: lofi, trance, Indian music and 80's funk.
+### Socials
 
-### And what else?
-In addition to coding for Investfy I have been working on personal projects such as my stock market monitoring tool and stock options.<br />
-Made in React and Node, this tool helps me in decision making about asset entry time.
+<p align="left"> <a href="https://www.github.com/Gilson401" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gp.web" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gpsc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DeveloperGp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC_K6s6sn9z0Tam-cvwL_mGg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
