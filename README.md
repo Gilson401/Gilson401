@@ -14,9 +14,7 @@ Front end web developer. I have been working in the area since August 2021. I ha
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a Kof player.
 
-<a href="https://www.twitter.com/DeveloperGp" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/DeveloperGp?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 
 ### Stats
 
@@ -25,7 +23,7 @@ src="https://img.shields.io/twitter/follow/DeveloperGp?logo=twitter&style=for-th
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilson401&layout=compact&theme=tokyonight"/>
 </div>
 
-### Skills
+### Technologies e Tools I use:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -38,7 +36,14 @@ src="https://img.shields.io/twitter/follow/DeveloperGp?logo=twitter&style=for-th
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn-images-1.medium.com/max/1200/1*Q26gw-kNzOXUqZKRr04T-g.png" width="36" height="36" alt="Jest" />
+</a>
+
+  
 </p>
 
 
