@@ -18,6 +18,12 @@ Front end web developer. I have been working in the area since August 2021. I ha
 src="https://img.shields.io/twitter/follow/DeveloperGp?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+### Stats
+
+<div>
+  <img src:"https://github-readme-stats.vercel.app/api?username=Gilson401&show_icons=true&theme=radical" alt="alt text"/>
+</div>
+
 ### Skills
 
 <p align="left">
