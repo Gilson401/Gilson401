@@ -45,7 +45,13 @@ Front end web developer. I have been working in the area since August 2021. I ha
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/66516553/163716801-ef703d54-e94d-4ea4-a875-6bd504f0b8dc.png" width="36" height="36" alt="Jest" />
 </a>
-  
+</p>
+
+# More detailed list. Last updated in april/22.
+<p>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/66516553/163717296-660d1485-8b80-4e74-a0a1-7aa40112c40e.png" width="100%" height="auto" alt="Jest" />
+</a>
 </p>
 
 
