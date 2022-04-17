@@ -21,7 +21,8 @@ src="https://img.shields.io/twitter/follow/DeveloperGp?logo=twitter&style=for-th
 ### Stats
 
 <div>
-  <img src:"https://github-readme-stats.vercel.app/api?username=Gilson401&show_icons=true&theme=radical" alt="alt text"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilson401&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilson401&layout=compact&theme=tokyonight"/>
 </div>
 
 ### Skills
