@@ -39,8 +39,8 @@ Front end web developer. I have been working in the area since August 2021. I ha
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-images-1.medium.com/max/1200/1*Q26gw-kNzOXUqZKRr04T-g.png" width="36" height="36" alt="Jest" />
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/66516553/163716151-0e4da87b-4154-4763-952d-aa89ac8ec4dc.PNG" width="36" height="36" alt="Jest" />
 </a>
 
   
