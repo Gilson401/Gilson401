@@ -1,5 +1,6 @@
 Hi 👋 My name is Gilson Paulo
 =============================
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gilson401&color=yellow" alt="Profile views" /> </p>
 
 Web Front End Developer
 -----------------------
@@ -39,15 +40,9 @@ Front end web developer. I have been working in the area since August 2021. I ha
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/66516553/163716151-0e4da87b-4154-4763-952d-aa89ac8ec4dc.PNG" width="36" height="36" alt="Jest" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/66516553/163716801-ef703d54-e94d-4ea4-a875-6bd504f0b8dc.png" width="36" height="36" alt="Jest" />
-</a>
-</p>
+ <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-# More detailed list. Last updated in april/22.
+### More detailed list. Last updated in april/22.
 <p>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/66516553/163717296-660d1485-8b80-4e74-a0a1-7aa40112c40e.png" width="100%" height="auto" alt="Jest" />
@@ -58,4 +53,6 @@ Front end web developer. I have been working in the area since August 2021. I ha
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Gilson401" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gp.web" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gpsc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DeveloperGp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC_K6s6sn9z0Tam-cvwL_mGg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=DeveloperGp&layout=wide&show_reply=off&show_retweet=off" />
 
