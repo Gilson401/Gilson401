@@ -16,6 +16,7 @@ Front end web developer. I have been working in the area since August 2021. I ha
 * ⚡  I'm a Kof player.
 
 
+![Snake animation](https://github.com/Gilson401/Gilson401/blob/output/github-contribution-grid-snake.svg)
 
 ### Stats
 
