@@ -5,7 +5,13 @@ Hi 👋 My name is Gilson Paulo
 Web Front End Developer
 -----------------------
 
-Front end web developer. I have been working in the area since August 2021. I have practical experience in formal work with HTML, CSS, JAVASCRIPT in addition to VueJS, NuxtJS and TailwindCSS frameworks. I also have knowledge of the MERN-MongoDB, ExpressJS, ReactJS and NodeJS stack, object of my training course at the Infnet Institute of Technology.
+I have been working in the area since August 2021. I have practical experience in formal work with HTML, CSS, JAVASCRIPT in addition to VueJS, NuxtJS and TailwindCSS frameworks. I also have knowledge of the MERN stack hich means MongoDB, ExpressJS, ReactJS and NodeJS stack, object of my training course at the Infnet Institute of Technology.
+
+I have experience with Github in development team. I understand and practice conventional commits.
+
+I also have experience with development in Docker environment.
+
+### A little more about me:
 
 * 🌍  I'm based in Itapema/SC - Brazil
 * 🖥️  See my portfolio at [Personal Site](http://gilsonpaulo.com.br/portfolio/)
