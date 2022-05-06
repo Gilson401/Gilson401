@@ -49,14 +49,40 @@ I also have experience with development in Docker environment.
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ### More detailed list. Last updated in april/22.
-<p>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/66516553/163717296-660d1485-8b80-4e74-a0a1-7aa40112c40e.png" width="100%" height="auto" alt="Jest" />
-</a>
-</p>
+
+|	Language / Technology	|	Readings	|Academic Reading	|	Personal projects	|	Contact on work projects |	Implementation in work projects	|
+|	:---------------------:	|	:---------------------:	|	:---------------------:	|	:---------------------:	|	:---------------------:	|	:---------------------:	|
+|	Antdesign	        |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	Axios	            |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	Bootstrap       	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	CSS	              |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	Cypress	          |	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	Docker	          |	:white_check_mark:	|	:x:	|	:x:	|	:white_check_mark:	|	:x:	|
+|	ExpressJS       	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	Figma	            |	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:x:	|
+|	Font Awesome	    |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	Github	          |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|
+|	HTML	            |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	Javascript	      |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	Jest - Testes     |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	MongoDB         	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	NextJS	          |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	NodeJS	          |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	NuxtJS	          |	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	OpenAPI	          |	:white_check_mark:	|	:x:	|	:x:	|	:white_check_mark:	|	:x:	|
+|	Postman	          |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|
+|	ReactJS	          |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	Redux	            |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	Styled Components	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	TailwindCSS	      |	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	VSCode	          |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|
+|	Vue	              |	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	Vuex Store	      |	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
+|	SCRUM - Agile	    |	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:x:	|
+|	Layout Responsivo	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
 
 
-### Socials
+### Socials:
 
 <p align="left"> <a href="https://www.github.com/Gilson401" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gp.web" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gpsc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DeveloperGp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC_K6s6sn9z0Tam-cvwL_mGg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
