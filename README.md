@@ -13,7 +13,7 @@ I also have experience with development in Docker environment.
 
 ### A little more about me:
 
-* 🌍  I'm currently based in Itapema/SC - Brazil
+* 🌍  I'm currently based in Itaboraí/RJ - Brazil
 * 🖥️  See my Linkedin at [Linkedin](https://www.linkedin.com/in/gpsc/)
 * 🖥️  See my portfolio at [Personal Site](http://gilsonpaulo.com.br/portfolio/)
 * ✉️  You can contact me at [dev.gpsc@gmail.com](mailto:dev.gpsc@gmail.com)
