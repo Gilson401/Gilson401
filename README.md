@@ -18,6 +18,7 @@ I also have experience with development in Docker environment.
 * 🖥️  See my portfolio at [Personal Site](http://gilsonpaulo.com.br/portfolio/)
 * ✉️  You can contact me at [dev.gpsc@gmail.com](mailto:dev.gpsc@gmail.com)
 * 🚀  I'm currently working on [Investfy](http://app.investfy.com/)
+* 📚  I'm currently learning Typescript
 
 
 ### Technologies e Tools I use:
