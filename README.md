@@ -93,6 +93,8 @@ I also have experience with development in Docker environment.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilson401&layout=compact&theme=tokyonight"/>
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gilson401&theme=midnight-purple" alt="ceekaytech" /></p>
+
 ### Socials:
 
 <p align="left"> <a href="https://www.github.com/Gilson401" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gp.web" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gpsc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DeveloperGp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC_K6s6sn9z0Tam-cvwL_mGg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
