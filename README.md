@@ -18,7 +18,7 @@ I also have experience with development in Docker environment.
 * 🖥️  See my portfolio at [Personal Site](http://gilsonpaulo.com.br/portfolio/)
 * ✉️  You can contact me at [dev.gpsc@gmail.com](mailto:dev.gpsc@gmail.com)
 * 🚀  I'm currently working on [InfobaseIT](https://infobase.com.br/)
-* 📚  I'm currently learning Typescript
+* 📚  I'm currently learning Dart and Flutter.
 
 
 ### Technologies e Tools I use:
