@@ -26,11 +26,8 @@ I also have experience with development in Docker environment.
 <p align="left">
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://v2.vuejs.org/images/logo.svg" width="36" height="36" alt="Vue" /></a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
-</a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" width="36" alt="flutter logo"  />
+</a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" width="36" alt="dart logo"  /></a>
 
 </p>
 
@@ -57,20 +54,24 @@ I also have experience with development in Docker environment.
   
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### More detailed list. Last updated in april/22:
+### More detailed list. Last updated in Feb/2023:
 
-|	Language / Technology	|	Readings	|Academic Reading	|	Personal projects	|	Contact on work projects |	Implementation in work projects	|
+|	Language / Technology / Concepts	|	Readings	|Academic Reading	|	Personal projects	|	Contact on work projects |	Implementation in work projects	|
 |	:---------------------:	|	:---------------------:	|	:---------------------:	|	:---------------------:	|	:---------------------:	|	:---------------------:	|
 |	Antdesign	        |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
 |	Axios	            |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
 |	Bootstrap       	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	Clean Architecture  |	:white_check_mark:	|	:x:	|	:x:	|	:white_check_mark:	|	:x:	|
 |	CSS	              |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
 |	Cypress	          |	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:x:	|	:x:	|
+|	Dart	            |	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
 |	Docker	          |	:white_check_mark:	|	:x:	|	:x:	|	:white_check_mark:	|	:x:	|
 |	ExpressJS       	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:x:	|
 |	Figma	            |	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:x:	|
+|	Flutter	            |	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
 |	Font Awesome	    |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
 |	Github	          |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:x:	|
+|	Git Flow	        |	:white_check_mark:	|	:white_check_mark:	|	:x:	|	:white_check_mark:	|	:white_check_mark:	|
 |	HTML	            |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
 |	Javascript	      |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
 |	Jest - Testes     |	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|	:white_check_mark:	|
