@@ -11,6 +11,8 @@ I have experience with Github in development team. I understand and practice con
 
 I also have experience with development in Docker environment.
 
+Currently I work at InfobaseIT developing mobile applications using the Dart language and the Flutter framework.
+
 ### A little more about me:
 
 * 🌍  I'm currently based in Itaboraí/RJ - Brazil
