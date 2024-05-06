@@ -19,8 +19,8 @@ Currently I work at InfobaseIT developing mobile applications using the Dart lan
 * 🖥️  See my Linkedin at [Linkedin](https://www.linkedin.com/in/gpsc/)
 * 🖥️  See my portfolio at [Personal Site](http://gilsonpaulo.com.br/portfolio/)
 * ✉️  You can contact me at [dev.gpsc@gmail.com](mailto:dev.gpsc@gmail.com)
-* 🚀  I'm currently working on [InfobaseIT](https://infobase.com.br/)
-* 📚  I'm currently learning Dart and Flutter.
+* 🚀  I'm currently available for job proposals
+* 📚  I'm currently updating my personal projects in ReactJs.
 
 
 ### Technologies e Tools I use:
