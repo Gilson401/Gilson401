@@ -11,9 +11,8 @@ I have experience with Github in development team. I understand and practice con
 
 I also have experience with development in Docker environment.
 
-My last job was at InfobaseIT developing mobile applications using the Dart language and the Flutter framework.
+I am currently the front-end developer responsible for the website [Mapa Interativo das Periferias](https://interativo-mapadasperiferias.cidades.gov.br/)
 
-I am currently available for job proposals.
 
 ### A little more about me:
 
